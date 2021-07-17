@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+
+.vacays {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    padding: 10px;
+}
+
+h1 {
+    color: green;
+}
