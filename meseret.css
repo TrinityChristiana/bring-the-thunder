@@ -1,0 +1,6 @@
+body {
+    background-color: rgb(184, 218, 188);
+  }
+  .cards{
+  display:flex;
+  }
