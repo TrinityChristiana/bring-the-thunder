@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
+body {
+  background-image: radial-gradient(
+    aqua,
+    rgb(170, 168, 168),
+    rgb(78, 175, 204)
+  );
+}
+
+.header {
+  font-family: "Satisfy";
+}
+
+h1 {
+  font-size: 4em;
+  text-align: center;
+  color: white;
+  text-shadow: 3px 3px 5px black;
+}
+
+.welcome {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 40px;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.pandas {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.pandas img {
+  flex-basis: 30%;
+  max-width: 25%;
+  box-shadow: 3px 3px 5px lightblue;
+}
+
+.nav-item :hover {
+  text-shadow: 1px 1px 3px aqua;
+}
+
+.img {
+  box-shadow: 3px 3px 5px lightblue;
+}
