@@ -1,18 +1,18 @@
 body {
   background-color: rgb(184, 218, 188);
 }
-
-.things-i-like {
+.derekb-body{
+  background-color: darkolivegreen;
+}
+.derekb-card{
   display: flex;
-  flex-wrap; wrap;
-  justify-content: center;
+  flex-wrap: wrap;
+  border-radius: 50px;
 }
-
-.card {
-  background-color: seagreen;
-  border: solid 1px black;
+.card{
+  margin: 50px;
 }
-
-h1 {
-  text-align: center;
+h1{
+text-align: center;
+border: 3px;
 }
