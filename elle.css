@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(132, 151, 175);
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Sacramento', cursive;
+    color: rgb(243, 239, 223);
+    margin: 40px;
+}
