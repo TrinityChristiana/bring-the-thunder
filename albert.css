@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+h1 {
+  font-size: larger;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.card mb-3 {
+  margin: 40px;
+  padding: 10px;
+}
