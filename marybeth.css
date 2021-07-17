@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(184, 218, 188);
+}
+
+.things-i-like {
+  display: flex;
+  flex-wrap; wrap;
+  justify-content: center;
+}
+
+.card {
+  background-color: seagreen;
+  border: solid 1px black;
+}
+
+h1 {
+  text-align: center;
+}
